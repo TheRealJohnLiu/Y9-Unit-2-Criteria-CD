@@ -108,7 +108,7 @@ function drawChallenge() {
     // can anyone figure this out?
 
 
-    mynums = [1374, 1156, 902, 700, 338, 575, 460, 347, 158];
+    mynums = [1350, 1136, 902, 687, 564, 451, 340, 154];
     counter = 0
 
     mynums.forEach(element => {
