@@ -1,0 +1,7243 @@
+chartdata = [
+    
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2017,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2017,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2017,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2017,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2017,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2017,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2017,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2017,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2017,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2017,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2017,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2017,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2017,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2017,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2017,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2017,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2017,
+    "Value": 4.8
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2017,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2017,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2017,
+    "Value": 5.8
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2017,
+    "Value": 17.1
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2017,
+    "Value": 17.2
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2016,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2016,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2016,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2016,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2016,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2016,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2016,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2016,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2016,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2016,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2016,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2016,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2016,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2016,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2016,
+    "Value": 1.8
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2016,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2016,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2016,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2016,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2016,
+    "Value": 3.5
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2016,
+    "Value": 3.6
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2016,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2016,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2016,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Saint Lucia",
+    "TimePeriod": 2016,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2016,
+    "Value": 6.5
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2016,
+    "Value": 7.1
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2016,
+    "Value": 13.3
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2016,
+    "Value": 14.8
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2016,
+    "Value": 16
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2016,
+    "Value": 40.9
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2016,
+    "Value": 41.7
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2016,
+    "Value": 55.5
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2016,
+    "Value": 70.3
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2015,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2015,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2015,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2015,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2015,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2015,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2015,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2015,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2015,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2015,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2015,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2015,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2015,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2015,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2015,
+    "Value": 1.8
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2015,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2015,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2015,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2015,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2015,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2015,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2015,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2015,
+    "Value": 3.6
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2015,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2015,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2015,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2015,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2015,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2015,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2015,
+    "Value": 4.8
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2015,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2015,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2015,
+    "Value": 6
+  },
+  {
+    "GeoAreaName": "Myanmar",
+    "TimePeriod": 2015,
+    "Value": 6.2
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2015,
+    "Value": 6.2
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2015,
+    "Value": 6.3
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2015,
+    "Value": 6.4
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2015,
+    "Value": 6.6
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2015,
+    "Value": 7.2
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2015,
+    "Value": 7.4
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2015,
+    "Value": 7.4
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2015,
+    "Value": 7.8
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2015,
+    "Value": 8
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2015,
+    "Value": 9.9
+  },
+  {
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2015,
+    "Value": 10.1
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2015,
+    "Value": 13.4
+  },
+  {
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2015,
+    "Value": 16.1
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2015,
+    "Value": 16.2
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2015,
+    "Value": 20.2
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2015,
+    "Value": 27.3
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2015,
+    "Value": 28.2
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2015,
+    "Value": 30.2
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2015,
+    "Value": 35.2
+  },
+  {
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2015,
+    "Value": 36.8
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2015,
+    "Value": 41
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2015,
+    "Value": 42.4
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2015,
+    "Value": 43.8
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2015,
+    "Value": 49.2
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2015,
+    "Value": 49.5
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2015,
+    "Value": 57.5
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2014,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2014,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2014,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2014,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2014,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2014,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2014,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2014,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2014,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2014,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2014,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2014,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2014,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2014,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2014,
+    "Value": 2.1
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2014,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2014,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2014,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2014,
+    "Value": 2.7
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2014,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2014,
+    "Value": 3
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2014,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2014,
+    "Value": 3.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2014,
+    "Value": 3.7
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2014,
+    "Value": 4.1
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2014,
+    "Value": 4.4
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2014,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2014,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2014,
+    "Value": 5.8
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2014,
+    "Value": 6
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2014,
+    "Value": 7.5
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2014,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2014,
+    "Value": 8.7
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2014,
+    "Value": 15.9
+  },
+  {
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2014,
+    "Value": 18.8
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2014,
+    "Value": 18.9
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2014,
+    "Value": 23.8
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2014,
+    "Value": 30.7
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2014,
+    "Value": 38.6
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2014,
+    "Value": 43.7
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2014,
+    "Value": 44.5
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2014,
+    "Value": 62.4
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2013,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2013,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2013,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2013,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2013,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2013,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2013,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2013,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2013,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2013,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Seychelles",
+    "TimePeriod": 2013,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2013,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2013,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2013,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2013,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2013,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2013,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2013,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 1.8
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2013,
+    "Value": 1.8
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2013,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2013,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2013,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2013,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2013,
+    "Value": 2.7
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2013,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2013,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2013,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2013,
+    "Value": 3.5
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2013,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2013,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2013,
+    "Value": 4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2013,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2013,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2013,
+    "Value": 4.9
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2013,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2013,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2013,
+    "Value": 6.1
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2013,
+    "Value": 6.6
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2013,
+    "Value": 6.9
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2013,
+    "Value": 7.2
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2013,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2013,
+    "Value": 8.4
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2013,
+    "Value": 8.4
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2013,
+    "Value": 9.4
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2013,
+    "Value": 9.4
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2013,
+    "Value": 9.9
+  },
+  {
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2013,
+    "Value": 11.1
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2013,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2013,
+    "Value": 15
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2013,
+    "Value": 15.1
+  },
+  {
+    "GeoAreaName": "Micronesia (Federated States of)",
+    "TimePeriod": 2013,
+    "Value": 15.4
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2013,
+    "Value": 17.3
+  },
+  {
+    "GeoAreaName": "Comoros",
+    "TimePeriod": 2013,
+    "Value": 17.9
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2013,
+    "Value": 19.2
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2013,
+    "Value": 22.7
+  },
+  {
+    "GeoAreaName": "Solomon Islands",
+    "TimePeriod": 2013,
+    "Value": 25.1
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2013,
+    "Value": 31.2
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2013,
+    "Value": 36.2
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2013,
+    "Value": 42.4
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2013,
+    "Value": 42.7
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2013,
+    "Value": 43.8
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2013,
+    "Value": 45.1
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2013,
+    "Value": 53.4
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2013,
+    "Value": 56.8
+  },
+  {
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2013,
+    "Value": 71.8
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2012,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2012,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2012,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2012,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2012,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2012,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Mauritius",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2012,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2012,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2012,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2012,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2012,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2012,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2012,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2012,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2012,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2012,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2012,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2012,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2012,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2012,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2012,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2012,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2012,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2012,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2012,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2012,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2012,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2012,
+    "Value": 2.9
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2012,
+    "Value": 2.9
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2012,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2012,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2012,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2012,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2012,
+    "Value": 3.6
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2012,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2012,
+    "Value": 4.1
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2012,
+    "Value": 4.1
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2012,
+    "Value": 4.2
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2012,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2012,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2012,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2012,
+    "Value": 4.9
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2012,
+    "Value": 6.2
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 6.3
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2012,
+    "Value": 6.5
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2012,
+    "Value": 6.6
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2012,
+    "Value": 6.7
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2012,
+    "Value": 6.8
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 7
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2012,
+    "Value": 8.2
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2012,
+    "Value": 8.6
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2012,
+    "Value": 9.5
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2012,
+    "Value": 9.6
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2012,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2012,
+    "Value": 11.6
+  },
+  {
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2012,
+    "Value": 11.7
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2012,
+    "Value": 12
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2012,
+    "Value": 12
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2012,
+    "Value": 12.8
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2012,
+    "Value": 16.8
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2012,
+    "Value": 17
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2012,
+    "Value": 18.3
+  },
+  {
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2012,
+    "Value": 18.7
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2012,
+    "Value": 19
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2012,
+    "Value": 19.6
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2012,
+    "Value": 22.7
+  },
+  {
+    "GeoAreaName": "Haiti",
+    "TimePeriod": 2012,
+    "Value": 25
+  },
+  {
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2012,
+    "Value": 30.7
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2012,
+    "Value": 32
+  },
+  {
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2012,
+    "Value": 32.1
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2012,
+    "Value": 35.3
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2012,
+    "Value": 35.9
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2012,
+    "Value": 37.4
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2012,
+    "Value": 43.7
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2012,
+    "Value": 44.6
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2012,
+    "Value": 45.2
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2012,
+    "Value": 46.3
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2012,
+    "Value": 55.1
+  },
+  {
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2012,
+    "Value": 76.6
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2012,
+    "Value": 77.6
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Lebanon",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2011,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2011,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2011,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2011,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Algeria",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2011,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2011,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2011,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2011,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2011,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2011,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2011,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2011,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2011,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2011,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2011,
+    "Value": 1.6
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2011,
+    "Value": 1.8
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2011,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2011,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2011,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2011,
+    "Value": 2.9
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2011,
+    "Value": 3
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2011,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2011,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2011,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2011,
+    "Value": 3.7
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2011,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2011,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2011,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2011,
+    "Value": 4.8
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2011,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2011,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2011,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2011,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2011,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2011,
+    "Value": 6.3
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2011,
+    "Value": 7.3
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 7.5
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2011,
+    "Value": 7.8
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2011,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2011,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 8.2
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2011,
+    "Value": 8.8
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2011,
+    "Value": 9.7
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2011,
+    "Value": 10.8
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2011,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2011,
+    "Value": 11.3
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2011,
+    "Value": 12.5
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2011,
+    "Value": 13.2
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2011,
+    "Value": 13.3
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2011,
+    "Value": 13.7
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2011,
+    "Value": 17.1
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2011,
+    "Value": 18.3
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2011,
+    "Value": 18.4
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2011,
+    "Value": 18.7
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2011,
+    "Value": 21.2
+  },
+  {
+    "GeoAreaName": "Zimbabwe",
+    "TimePeriod": 2011,
+    "Value": 21.4
+  },
+  {
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2011,
+    "Value": 24.2
+  },
+  {
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2011,
+    "Value": 26.1
+  },
+  {
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2011,
+    "Value": 31.4
+  },
+  {
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2011,
+    "Value": 32.9
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2011,
+    "Value": 32.9
+  },
+  {
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2011,
+    "Value": 37
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2011,
+    "Value": 38
+  },
+  {
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2011,
+    "Value": 38.4
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2011,
+    "Value": 39.1
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2011,
+    "Value": 45
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2011,
+    "Value": 46.3
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2011,
+    "Value": 46.3
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2011,
+    "Value": 46.8
+  },
+  {
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2011,
+    "Value": 49.1
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2011,
+    "Value": 50.3
+  },
+  {
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2011,
+    "Value": 52.2
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2011,
+    "Value": 53.1
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2011,
+    "Value": 54.2
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2011,
+    "Value": 57.7
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2010,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2010,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2010,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2010,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2010,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2010,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2010,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2010,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2010,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2010,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2010,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2010,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2010,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2010,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2010,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2010,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2010,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2010,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2010,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2010,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2010,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2010,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2010,
+    "Value": 3
+  },
+  {
+    "GeoAreaName": "Tuvalu",
+    "TimePeriod": 2010,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2010,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2010,
+    "Value": 4.1
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2010,
+    "Value": 4.2
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2010,
+    "Value": 4.2
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2010,
+    "Value": 4.4
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2010,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2010,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2010,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2010,
+    "Value": 5.4
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2010,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2010,
+    "Value": 5.6
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2010,
+    "Value": 6.1
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2010,
+    "Value": 7.7
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2010,
+    "Value": 8.3
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2010,
+    "Value": 9.7
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 10.3
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2010,
+    "Value": 10.4
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2010,
+    "Value": 10.8
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 10.8
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2010,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2010,
+    "Value": 12.2
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2010,
+    "Value": 12.4
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2010,
+    "Value": 12.8
+  },
+  {
+    "GeoAreaName": "Vanuatu",
+    "TimePeriod": 2010,
+    "Value": 13.1
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2010,
+    "Value": 15
+  },
+  {
+    "GeoAreaName": "Nepal",
+    "TimePeriod": 2010,
+    "Value": 15
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2010,
+    "Value": 15.2
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2010,
+    "Value": 15.7
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2010,
+    "Value": 15.7
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2010,
+    "Value": 15.8
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2010,
+    "Value": 16.5
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2010,
+    "Value": 18.7
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2010,
+    "Value": 19.6
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2010,
+    "Value": 22.8
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2010,
+    "Value": 23
+  },
+  {
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2010,
+    "Value": 24.8
+  },
+  {
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2010,
+    "Value": 25.1
+  },
+  {
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2010,
+    "Value": 26.6
+  },
+  {
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2010,
+    "Value": 31.6
+  },
+  {
+    "GeoAreaName": "Sao Tome and Principe",
+    "TimePeriod": 2010,
+    "Value": 32.3
+  },
+  {
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2010,
+    "Value": 33.1
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2010,
+    "Value": 33.5
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2010,
+    "Value": 34.4
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2010,
+    "Value": 40.5
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2010,
+    "Value": 46.5
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2010,
+    "Value": 47.7
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2010,
+    "Value": 47.8
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2010,
+    "Value": 48.7
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2010,
+    "Value": 59.3
+  },
+  {
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2010,
+    "Value": 59.7
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2010,
+    "Value": 62.3
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2010,
+    "Value": 64.4
+  },
+  {
+    "GeoAreaName": "Guinea-Bissau",
+    "TimePeriod": 2010,
+    "Value": 67.1
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2010,
+    "Value": 71.7
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2010,
+    "Value": 78.5
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2009,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2009,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2009,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2009,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2009,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2009,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2009,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2009,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2009,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Croatia",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2009,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2009,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2009,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2009,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2009,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2009,
+    "Value": 2.1
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2009,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2009,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2009,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2009,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2009,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2009,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2009,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2009,
+    "Value": 3.5
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2009,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2009,
+    "Value": 5.4
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2009,
+    "Value": 5.8
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2009,
+    "Value": 6.4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2009,
+    "Value": 7
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2009,
+    "Value": 7.2
+  },
+  {
+    "GeoAreaName": "Maldives",
+    "TimePeriod": 2009,
+    "Value": 7.3
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2009,
+    "Value": 7.3
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2009,
+    "Value": 8.9
+  },
+  {
+    "GeoAreaName": "North Macedonia",
+    "TimePeriod": 2009,
+    "Value": 9.6
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2009,
+    "Value": 10.3
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2009,
+    "Value": 10.5
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2009,
+    "Value": 10.7
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2009,
+    "Value": 13.8
+  },
+  {
+    "GeoAreaName": "Sudan",
+    "TimePeriod": 2009,
+    "Value": 14.9
+  },
+  {
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2009,
+    "Value": 18.2
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2009,
+    "Value": 18.2
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2009,
+    "Value": 22.6
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2009,
+    "Value": 31.1
+  },
+  {
+    "GeoAreaName": "Papua New Guinea",
+    "TimePeriod": 2009,
+    "Value": 38
+  },
+  {
+    "GeoAreaName": "Eswatini",
+    "TimePeriod": 2009,
+    "Value": 42
+  },
+  {
+    "GeoAreaName": "South Sudan",
+    "TimePeriod": 2009,
+    "Value": 42.7
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2009,
+    "Value": 44.6
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2009,
+    "Value": 49.7
+  },
+  {
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2009,
+    "Value": 53.5
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2009,
+    "Value": 55.3
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2008,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2008,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Japan",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2008,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2008,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2008,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2008,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2008,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2008,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2008,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2008,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2008,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2008,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2008,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2008,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2008,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2008,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2008,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2008,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2008,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2008,
+    "Value": 2.9
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2008,
+    "Value": 3.5
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2008,
+    "Value": 3.7
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2008,
+    "Value": 3.7
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2008,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2008,
+    "Value": 4
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2008,
+    "Value": 4.1
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2008,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2008,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2008,
+    "Value": 5
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2008,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2008,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2008,
+    "Value": 5.6
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2008,
+    "Value": 6.3
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2008,
+    "Value": 6.7
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2008,
+    "Value": 6.9
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2008,
+    "Value": 7.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2008,
+    "Value": 9
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2008,
+    "Value": 10.4
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2008,
+    "Value": 10.4
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2008,
+    "Value": 10.8
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2008,
+    "Value": 11.1
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2008,
+    "Value": 11.3
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 13.1
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2008,
+    "Value": 13.7
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 14.1
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2008,
+    "Value": 14.8
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2008,
+    "Value": 14.8
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2008,
+    "Value": 16.3
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2008,
+    "Value": 16.5
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2008,
+    "Value": 16.9
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2008,
+    "Value": 17.7
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2008,
+    "Value": 18.2
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2008,
+    "Value": 19.5
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2008,
+    "Value": 19.6
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2008,
+    "Value": 19.8
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2008,
+    "Value": 21.8
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2008,
+    "Value": 27.5
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2008,
+    "Value": 27.6
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2008,
+    "Value": 29.1
+  },
+  {
+    "GeoAreaName": "Angola",
+    "TimePeriod": 2008,
+    "Value": 30.1
+  },
+  {
+    "GeoAreaName": "Oceania (exc. Australia and New Zealand)",
+    "TimePeriod": 2008,
+    "Value": 37.1
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2008,
+    "Value": 37.7
+  },
+  {
+    "GeoAreaName": "Melanesia",
+    "TimePeriod": 2008,
+    "Value": 39
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2008,
+    "Value": 42.9
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2008,
+    "Value": 47.9
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2008,
+    "Value": 48.9
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2008,
+    "Value": 49.3
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2008,
+    "Value": 50.5
+  },
+  {
+    "GeoAreaName": "Central African Republic",
+    "TimePeriod": 2008,
+    "Value": 66.3
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2008,
+    "Value": 69.1
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2007,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2007,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2007,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2007,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2007,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2007,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2007,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2007,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2007,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2007,
+    "Value": 1.2
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2007,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2007,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2007,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2007,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2007,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2007,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2007,
+    "Value": 2.9
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2007,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2007,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2007,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2007,
+    "Value": 6.8
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2007,
+    "Value": 7.8
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2007,
+    "Value": 7.8
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2007,
+    "Value": 8
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2007,
+    "Value": 8.1
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2007,
+    "Value": 8.5
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2007,
+    "Value": 9.9
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2007,
+    "Value": 10.4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2007,
+    "Value": 11
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2007,
+    "Value": 11.8
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2007,
+    "Value": 12.4
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2007,
+    "Value": 13.2
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2007,
+    "Value": 17.2
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2007,
+    "Value": 22.4
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2007,
+    "Value": 27
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2007,
+    "Value": 29.3
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2007,
+    "Value": 47
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2007,
+    "Value": 59.7
+  },
+  {
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2007,
+    "Value": 59.9
+  },
+  {
+    "GeoAreaName": "Liberia",
+    "TimePeriod": 2007,
+    "Value": 68.6
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2007,
+    "Value": 72
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Switzerland",
+    "TimePeriod": 2006,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2006,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Republic of Korea",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2006,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2006,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2006,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Mauritius",
+    "TimePeriod": 2006,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Malta",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Uruguay",
+    "TimePeriod": 2006,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2006,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2006,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2006,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2006,
+    "Value": 1.5
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2006,
+    "Value": 1.9
+  },
+  {
+    "GeoAreaName": "Iraq",
+    "TimePeriod": 2006,
+    "Value": 2.1
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2006,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2006,
+    "Value": 2.4
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2006,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2006,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2006,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2006,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2006,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2006,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2006,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Bulgaria",
+    "TimePeriod": 2006,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2006,
+    "Value": 6.9
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2006,
+    "Value": 7.2
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2006,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Romania",
+    "TimePeriod": 2006,
+    "Value": 8
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2006,
+    "Value": 8.1
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2006,
+    "Value": 9.9
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2006,
+    "Value": 10.2
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2006,
+    "Value": 10.5
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2006,
+    "Value": 10.5
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2006,
+    "Value": 11.1
+  },
+  {
+    "GeoAreaName": "Kiribati",
+    "TimePeriod": 2006,
+    "Value": 12.9
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2006,
+    "Value": 13.3
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2006,
+    "Value": 14.7
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2006,
+    "Value": 16.4
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2006,
+    "Value": 19.5
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2006,
+    "Value": 22.5
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2006,
+    "Value": 27.4
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2006,
+    "Value": 51.2
+  },
+  {
+    "GeoAreaName": "Togo",
+    "TimePeriod": 2006,
+    "Value": 55.6
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2006,
+    "Value": 60.5
+  },
+  {
+    "GeoAreaName": "Burundi",
+    "TimePeriod": 2006,
+    "Value": 77.7
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2005,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2005,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Montenegro",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2005,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2005,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2005,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Iran (Islamic Republic of)",
+    "TimePeriod": 2005,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2005,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2005,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2005,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2005,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2005,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2005,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2005,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2005,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2005,
+    "Value": 2.6
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2005,
+    "Value": 3.1
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2005,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2005,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2005,
+    "Value": 3.3
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2005,
+    "Value": 3.8
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2005,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2005,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2005,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2005,
+    "Value": 5.6
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2005,
+    "Value": 6.1
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2005,
+    "Value": 6.2
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2005,
+    "Value": 6.9
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2005,
+    "Value": 7.2
+  },
+  {
+    "GeoAreaName": "Gabon",
+    "TimePeriod": 2005,
+    "Value": 8
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2005,
+    "Value": 8.1
+  },
+  {
+    "GeoAreaName": "Micronesia (Federated States of)",
+    "TimePeriod": 2005,
+    "Value": 8.1
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2005,
+    "Value": 8.3
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2005,
+    "Value": 8.6
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2005,
+    "Value": 9.5
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2005,
+    "Value": 9.7
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2005,
+    "Value": 9.8
+  },
+  {
+    "GeoAreaName": "Yemen",
+    "TimePeriod": 2005,
+    "Value": 9.8
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2005,
+    "Value": 10
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2005,
+    "Value": 10.4
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2005,
+    "Value": 10.9
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2005,
+    "Value": 12.1
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2005,
+    "Value": 12.6
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2005,
+    "Value": 13.9
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2005,
+    "Value": 15.3
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2005,
+    "Value": 15.3
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 15.4
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2005,
+    "Value": 16.1
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 16.3
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2005,
+    "Value": 16.5
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2005,
+    "Value": 18.5
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2005,
+    "Value": 18.9
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2005,
+    "Value": 19.3
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2005,
+    "Value": 19.7
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2005,
+    "Value": 20.7
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2005,
+    "Value": 21.1
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2005,
+    "Value": 22.4
+  },
+  {
+    "GeoAreaName": "Ghana",
+    "TimePeriod": 2005,
+    "Value": 24.5
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2005,
+    "Value": 25.5
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2005,
+    "Value": 25.7
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2005,
+    "Value": 26.1
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2005,
+    "Value": 26.5
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2005,
+    "Value": 27.8
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2005,
+    "Value": 31.3
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2005,
+    "Value": 37.4
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2005,
+    "Value": 41.7
+  },
+  {
+    "GeoAreaName": "Kenya",
+    "TimePeriod": 2005,
+    "Value": 43.7
+  },
+  {
+    "GeoAreaName": "Solomon Islands",
+    "TimePeriod": 2005,
+    "Value": 45.6
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2005,
+    "Value": 48.1
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2005,
+    "Value": 50.1
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2005,
+    "Value": 50.7
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2005,
+    "Value": 51.9
+  },
+  {
+    "GeoAreaName": "Congo",
+    "TimePeriod": 2005,
+    "Value": 53.4
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2005,
+    "Value": 53.5
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2005,
+    "Value": 56.4
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2005,
+    "Value": 64.4
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2005,
+    "Value": 68.3
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2005,
+    "Value": 72
+  },
+  {
+    "GeoAreaName": "Niger",
+    "TimePeriod": 2005,
+    "Value": 74.9
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Cyprus",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Czechia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovakia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Slovenia",
+    "TimePeriod": 2004,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2004,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Hungary",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Netherlands",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2004,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2004,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Malaysia",
+    "TimePeriod": 2004,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "United Kingdom of Great Britain and Northern Ireland",
+    "TimePeriod": 2004,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2004,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2004,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2004,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2004,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2004,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2004,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "State of Palestine",
+    "TimePeriod": 2004,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2004,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Syrian Arab Republic",
+    "TimePeriod": 2004,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2004,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2004,
+    "Value": 2.3
+  },
+  {
+    "GeoAreaName": "Latvia",
+    "TimePeriod": 2004,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Lithuania",
+    "TimePeriod": 2004,
+    "Value": 2.7
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2004,
+    "Value": 4.3
+  },
+  {
+    "GeoAreaName": "Egypt",
+    "TimePeriod": 2004,
+    "Value": 4.4
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2004,
+    "Value": 5.2
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2004,
+    "Value": 5.4
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2004,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2004,
+    "Value": 7.9
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2004,
+    "Value": 8.5
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2004,
+    "Value": 8.6
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2004,
+    "Value": 9.7
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2004,
+    "Value": 10.1
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2004,
+    "Value": 10.1
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2004,
+    "Value": 10.9
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2004,
+    "Value": 10.9
+  },
+  {
+    "GeoAreaName": "Comoros",
+    "TimePeriod": 2004,
+    "Value": 13.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2004,
+    "Value": 13.5
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2004,
+    "Value": 13.6
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2004,
+    "Value": 13.7
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2004,
+    "Value": 14.4
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2004,
+    "Value": 15
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2004,
+    "Value": 15.4
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2004,
+    "Value": 18
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2004,
+    "Value": 19.8
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2004,
+    "Value": 23.9
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2004,
+    "Value": 26.5
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2004,
+    "Value": 27.2
+  },
+  {
+    "GeoAreaName": "Ethiopia",
+    "TimePeriod": 2004,
+    "Value": 37.2
+  },
+  {
+    "GeoAreaName": "India",
+    "TimePeriod": 2004,
+    "Value": 38.2
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2004,
+    "Value": 56.7
+  },
+  {
+    "GeoAreaName": "Malawi",
+    "TimePeriod": 2004,
+    "Value": 73.4
+  },
+  {
+    "GeoAreaName": "Democratic Republic of the Congo",
+    "TimePeriod": 2004,
+    "Value": 94.1
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Finland",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "France",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Iceland",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Luxembourg",
+    "TimePeriod": 2003,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2003,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Austria",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Belgium",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Denmark",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Ireland",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Norway",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Sweden",
+    "TimePeriod": 2003,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Greece",
+    "TimePeriod": 2003,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2003,
+    "Value": 0.5
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2003,
+    "Value": 0.6
+  },
+  {
+    "GeoAreaName": "Italy",
+    "TimePeriod": 2003,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Spain",
+    "TimePeriod": 2003,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2003,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2003,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Portugal",
+    "TimePeriod": 2003,
+    "Value": 1
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2003,
+    "Value": 1.4
+  },
+  {
+    "GeoAreaName": "Estonia",
+    "TimePeriod": 2003,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2003,
+    "Value": 4.2
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2003,
+    "Value": 4.2
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2003,
+    "Value": 4.4
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2003,
+    "Value": 4.6
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2003,
+    "Value": 6.6
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2003,
+    "Value": 7
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2003,
+    "Value": 7.5
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2003,
+    "Value": 8.3
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2003,
+    "Value": 10.7
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2003,
+    "Value": 11.1
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2003,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2003,
+    "Value": 11.4
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2003,
+    "Value": 11.7
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2003,
+    "Value": 12
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2003,
+    "Value": 13.1
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2003,
+    "Value": 14.5
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2003,
+    "Value": 14.8
+  },
+  {
+    "GeoAreaName": "Bhutan",
+    "TimePeriod": 2003,
+    "Value": 17.6
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2003,
+    "Value": 22.6
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2003,
+    "Value": 22.7
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2003,
+    "Value": 28.1
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2003,
+    "Value": 28.1
+  },
+  {
+    "GeoAreaName": "Tajikistan",
+    "TimePeriod": 2003,
+    "Value": 30.8
+  },
+  {
+    "GeoAreaName": "Namibia",
+    "TimePeriod": 2003,
+    "Value": 31.5
+  },
+  {
+    "GeoAreaName": "Gambia",
+    "TimePeriod": 2003,
+    "Value": 45.3
+  },
+  {
+    "GeoAreaName": "Nepal",
+    "TimePeriod": 2003,
+    "Value": 46.1
+  },
+  {
+    "GeoAreaName": "Benin",
+    "TimePeriod": 2003,
+    "Value": 48.8
+  },
+  {
+    "GeoAreaName": "Nigeria",
+    "TimePeriod": 2003,
+    "Value": 53.5
+  },
+  {
+    "GeoAreaName": "Burkina Faso",
+    "TimePeriod": 2003,
+    "Value": 57.3
+  },
+  {
+    "GeoAreaName": "Sierra Leone",
+    "TimePeriod": 2003,
+    "Value": 60.6
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2003,
+    "Value": 62.1
+  },
+  {
+    "GeoAreaName": "Chad",
+    "TimePeriod": 2003,
+    "Value": 62.9
+  },
+  {
+    "GeoAreaName": "Central African Republic",
+    "TimePeriod": 2003,
+    "Value": 64.8
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2002,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Western Europe",
+    "TimePeriod": 2002,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2002,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2002,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Serbia",
+    "TimePeriod": 2002,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Northern Europe",
+    "TimePeriod": 2002,
+    "Value": 0.4
+  },
+  {
+    "GeoAreaName": "Southern Europe",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2002,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Northern America",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Europe",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Europe and Northern America",
+    "TimePeriod": 2002,
+    "Value": 0.8
+  },
+  {
+    "GeoAreaName": "Australia and New Zealand",
+    "TimePeriod": 2002,
+    "Value": 0.9
+  },
+  {
+    "GeoAreaName": "Jordan",
+    "TimePeriod": 2002,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2002,
+    "Value": 1.1
+  },
+  {
+    "GeoAreaName": "Eastern Europe",
+    "TimePeriod": 2002,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Ukraine",
+    "TimePeriod": 2002,
+    "Value": 1.7
+  },
+  {
+    "GeoAreaName": "Albania",
+    "TimePeriod": 2002,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Samoa",
+    "TimePeriod": 2002,
+    "Value": 2
+  },
+  {
+    "GeoAreaName": "Polynesia",
+    "TimePeriod": 2002,
+    "Value": 2.1
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2002,
+    "Value": 2.1
+  },
+  {
+    "GeoAreaName": "Turkey",
+    "TimePeriod": 2002,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Jamaica",
+    "TimePeriod": 2002,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)",
+    "TimePeriod": 2002,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Western Asia",
+    "TimePeriod": 2002,
+    "Value": 3.4
+  },
+  {
+    "GeoAreaName": "Northern Africa (exc. Sudan)",
+    "TimePeriod": 2002,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2002,
+    "Value": 4.5
+  },
+  {
+    "GeoAreaName": "Fiji",
+    "TimePeriod": 2002,
+    "Value": 4.9
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2002,
+    "Value": 5.6
+  },
+  {
+    "GeoAreaName": "Northern Africa and Western Asia",
+    "TimePeriod": 2002,
+    "Value": 5.8
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2002,
+    "Value": 6.6
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2002,
+    "Value": 6.8
+  },
+  {
+    "GeoAreaName": "Northern Africa",
+    "TimePeriod": 2002,
+    "Value": 8
+  },
+  {
+    "GeoAreaName": "Sri Lanka",
+    "TimePeriod": 2002,
+    "Value": 8.3
+  },
+  {
+    "GeoAreaName": "Central America",
+    "TimePeriod": 2002,
+    "Value": 8.4
+  },
+  {
+    "GeoAreaName": "Mongolia",
+    "TimePeriod": 2002,
+    "Value": 9.7
+  },
+  {
+    "GeoAreaName": "Maldives",
+    "TimePeriod": 2002,
+    "Value": 10
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2002,
+    "Value": 10.3
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2002,
+    "Value": 10.5
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2002,
+    "Value": 11.2
+  },
+  {
+    "GeoAreaName": "Latin America and the Caribbean",
+    "TimePeriod": 2002,
+    "Value": 11.8
+  },
+  {
+    "GeoAreaName": "South America",
+    "TimePeriod": 2002,
+    "Value": 12.3
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2002,
+    "Value": 13.2
+  },
+  {
+    "GeoAreaName": "Oceania",
+    "TimePeriod": 2002,
+    "Value": 13.6
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2002,
+    "Value": 14
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2002,
+    "Value": 14
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2002,
+    "Value": 14.3
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2002,
+    "Value": 15
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2002,
+    "Value": 15.1
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2002,
+    "Value": 16.3
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2002,
+    "Value": 18.2
+  },
+  {
+    "GeoAreaName": "Djibouti",
+    "TimePeriod": 2002,
+    "Value": 20.6
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2002,
+    "Value": 22.8
+  },
+  {
+    "GeoAreaName": "Côte d'Ivoire",
+    "TimePeriod": 2002,
+    "Value": 23.2
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2002,
+    "Value": 23.4
+  },
+  {
+    "GeoAreaName": "South-Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 23.5
+  },
+  {
+    "GeoAreaName": "Eastern and South-Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 24.6
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2002,
+    "Value": 24.7
+  },
+  {
+    "GeoAreaName": "Eastern Asia",
+    "TimePeriod": 2002,
+    "Value": 24.9
+  },
+  {
+    "GeoAreaName": "World",
+    "TimePeriod": 2002,
+    "Value": 25.5
+  },
+  {
+    "GeoAreaName": "Caribbean",
+    "TimePeriod": 2002,
+    "Value": 25.7
+  },
+  {
+    "GeoAreaName": "Eastern Asia (excluding Japan)",
+    "TimePeriod": 2002,
+    "Value": 26.1
+  },
+  {
+    "GeoAreaName": "Asia",
+    "TimePeriod": 2002,
+    "Value": 28.4
+  },
+  {
+    "GeoAreaName": "Botswana",
+    "TimePeriod": 2002,
+    "Value": 29.8
+  },
+  {
+    "GeoAreaName": "Small island developing States (SIDS)",
+    "TimePeriod": 2002,
+    "Value": 29.8
+  },
+  {
+    "GeoAreaName": "Caucasus and Central Asia",
+    "TimePeriod": 2002,
+    "Value": 31.1
+  },
+  {
+    "GeoAreaName": "China",
+    "TimePeriod": 2002,
+    "Value": 31.7
+  },
+  {
+    "GeoAreaName": "Lao People's Democratic Republic",
+    "TimePeriod": 2002,
+    "Value": 33.8
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2002,
+    "Value": 34.1
+  },
+  {
+    "GeoAreaName": "Southern Africa",
+    "TimePeriod": 2002,
+    "Value": 34.9
+  },
+  {
+    "GeoAreaName": "Southern Asia",
+    "TimePeriod": 2002,
+    "Value": 35
+  },
+  {
+    "GeoAreaName": "Central and Southern Asia",
+    "TimePeriod": 2002,
+    "Value": 35
+  },
+  {
+    "GeoAreaName": "Central Asia",
+    "TimePeriod": 2002,
+    "Value": 38
+  },
+  {
+    "GeoAreaName": "Viet Nam",
+    "TimePeriod": 2002,
+    "Value": 38
+  },
+  {
+    "GeoAreaName": "Landlocked developing countries (LLDCs)",
+    "TimePeriod": 2002,
+    "Value": 48.2
+  },
+  {
+    "GeoAreaName": "Zambia",
+    "TimePeriod": 2002,
+    "Value": 49.4
+  },
+  {
+    "GeoAreaName": "Western Africa",
+    "TimePeriod": 2002,
+    "Value": 53.5
+  },
+  {
+    "GeoAreaName": "Guinea-Bissau",
+    "TimePeriod": 2002,
+    "Value": 53.9
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa (inc. Sudan)",
+    "TimePeriod": 2002,
+    "Value": 55.2
+  },
+  {
+    "GeoAreaName": "Least Developed Countries (LDCs)",
+    "TimePeriod": 2002,
+    "Value": 55.5
+  },
+  {
+    "GeoAreaName": "Sub-Saharan Africa",
+    "TimePeriod": 2002,
+    "Value": 56.4
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2002,
+    "Value": 58.2
+  },
+  {
+    "GeoAreaName": "Eastern Africa",
+    "TimePeriod": 2002,
+    "Value": 59.5
+  },
+  {
+    "GeoAreaName": "Lesotho",
+    "TimePeriod": 2002,
+    "Value": 61.3
+  },
+  {
+    "GeoAreaName": "Guinea",
+    "TimePeriod": 2002,
+    "Value": 62.2
+  },
+  {
+    "GeoAreaName": "Uganda",
+    "TimePeriod": 2002,
+    "Value": 65.1
+  },
+  {
+    "GeoAreaName": "Middle Africa",
+    "TimePeriod": 2002,
+    "Value": 67
+  },
+  {
+    "GeoAreaName": "Mozambique",
+    "TimePeriod": 2002,
+    "Value": 81
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2001,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2001,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Israel",
+    "TimePeriod": 2001,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "Bosnia and Herzegovina",
+    "TimePeriod": 2001,
+    "Value": 0.3
+  },
+  {
+    "GeoAreaName": "Australia",
+    "TimePeriod": 2001,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2001,
+    "Value": 1.3
+  },
+  {
+    "GeoAreaName": "Azerbaijan",
+    "TimePeriod": 2001,
+    "Value": 2.7
+  },
+  {
+    "GeoAreaName": "Tonga",
+    "TimePeriod": 2001,
+    "Value": 2.8
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2001,
+    "Value": 3.2
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2001,
+    "Value": 3.9
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2001,
+    "Value": 4.7
+  },
+  {
+    "GeoAreaName": "Paraguay",
+    "TimePeriod": 2001,
+    "Value": 8.9
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2001,
+    "Value": 9.4
+  },
+  {
+    "GeoAreaName": "Kazakhstan",
+    "TimePeriod": 2001,
+    "Value": 10.3
+  },
+  {
+    "GeoAreaName": "Venezuela (Bolivarian Republic of)",
+    "TimePeriod": 2001,
+    "Value": 11
+  },
+  {
+    "GeoAreaName": "Brazil",
+    "TimePeriod": 2001,
+    "Value": 11.6
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2001,
+    "Value": 13.5
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2001,
+    "Value": 15.5
+  },
+  {
+    "GeoAreaName": "Cabo Verde",
+    "TimePeriod": 2001,
+    "Value": 16.2
+  },
+  {
+    "GeoAreaName": "Nicaragua",
+    "TimePeriod": 2001,
+    "Value": 16.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2001,
+    "Value": 17.2
+  },
+  {
+    "GeoAreaName": "Armenia",
+    "TimePeriod": 2001,
+    "Value": 19.3
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2001,
+    "Value": 19.4
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2001,
+    "Value": 19.7
+  },
+  {
+    "GeoAreaName": "Honduras",
+    "TimePeriod": 2001,
+    "Value": 21.3
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2001,
+    "Value": 22.8
+  },
+  {
+    "GeoAreaName": "Cameroon",
+    "TimePeriod": 2001,
+    "Value": 23.1
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2001,
+    "Value": 27.2
+  },
+  {
+    "GeoAreaName": "Pakistan",
+    "TimePeriod": 2001,
+    "Value": 28.6
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2001,
+    "Value": 35.5
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2001,
+    "Value": 36.4
+  },
+  {
+    "GeoAreaName": "Timor-Leste",
+    "TimePeriod": 2001,
+    "Value": 46
+  },
+  {
+    "GeoAreaName": "Senegal",
+    "TimePeriod": 2001,
+    "Value": 48.3
+  },
+  {
+    "GeoAreaName": "Mali",
+    "TimePeriod": 2001,
+    "Value": 58.5
+  },
+  {
+    "GeoAreaName": "Madagascar",
+    "TimePeriod": 2001,
+    "Value": 68.7
+  },
+  {
+    "GeoAreaName": "Germany",
+    "TimePeriod": 2000,
+    "Value": 0
+  },
+  {
+    "GeoAreaName": "Poland",
+    "TimePeriod": 2000,
+    "Value": 0.1
+  },
+  {
+    "GeoAreaName": "Canada",
+    "TimePeriod": 2000,
+    "Value": 0.2
+  },
+  {
+    "GeoAreaName": "United States of America",
+    "TimePeriod": 2000,
+    "Value": 0.7
+  },
+  {
+    "GeoAreaName": "Russian Federation",
+    "TimePeriod": 2000,
+    "Value": 2.2
+  },
+  {
+    "GeoAreaName": "Thailand",
+    "TimePeriod": 2000,
+    "Value": 2.5
+  },
+  {
+    "GeoAreaName": "Chile",
+    "TimePeriod": 2000,
+    "Value": 4.4
+  },
+  {
+    "GeoAreaName": "Dominican Republic",
+    "TimePeriod": 2000,
+    "Value": 5.5
+  },
+  {
+    "GeoAreaName": "Argentina",
+    "TimePeriod": 2000,
+    "Value": 5.7
+  },
+  {
+    "GeoAreaName": "Tunisia",
+    "TimePeriod": 2000,
+    "Value": 5.9
+  },
+  {
+    "GeoAreaName": "Morocco",
+    "TimePeriod": 2000,
+    "Value": 6.3
+  },
+  {
+    "GeoAreaName": "Costa Rica",
+    "TimePeriod": 2000,
+    "Value": 6.5
+  },
+  {
+    "GeoAreaName": "Belarus",
+    "TimePeriod": 2000,
+    "Value": 7.1
+  },
+  {
+    "GeoAreaName": "Mexico",
+    "TimePeriod": 2000,
+    "Value": 8.9
+  },
+  {
+    "GeoAreaName": "Guatemala",
+    "TimePeriod": 2000,
+    "Value": 9.2
+  },
+  {
+    "GeoAreaName": "El Salvador",
+    "TimePeriod": 2000,
+    "Value": 12.2
+  },
+  {
+    "GeoAreaName": "Panama",
+    "TimePeriod": 2000,
+    "Value": 12.4
+  },
+  {
+    "GeoAreaName": "Philippines",
+    "TimePeriod": 2000,
+    "Value": 14.5
+  },
+  {
+    "GeoAreaName": "Peru",
+    "TimePeriod": 2000,
+    "Value": 16.3
+  },
+  {
+    "GeoAreaName": "Colombia",
+    "TimePeriod": 2000,
+    "Value": 16.4
+  },
+  {
+    "GeoAreaName": "Georgia",
+    "TimePeriod": 2000,
+    "Value": 19.4
+  },
+  {
+    "GeoAreaName": "Mauritania",
+    "TimePeriod": 2000,
+    "Value": 19.6
+  },
+  {
+    "GeoAreaName": "Ecuador",
+    "TimePeriod": 2000,
+    "Value": 28.2
+  },
+  {
+    "GeoAreaName": "Bolivia (Plurinational State of)",
+    "TimePeriod": 2000,
+    "Value": 28.6
+  },
+  {
+    "GeoAreaName": "Sao Tome and Principe",
+    "TimePeriod": 2000,
+    "Value": 29.8
+  },
+  {
+    "GeoAreaName": "Angola",
+    "TimePeriod": 2000,
+    "Value": 32.3
+  },
+  {
+    "GeoAreaName": "Bangladesh",
+    "TimePeriod": 2000,
+    "Value": 34.8
+  },
+  {
+    "GeoAreaName": "South Africa",
+    "TimePeriod": 2000,
+    "Value": 35
+  },
+  {
+    "GeoAreaName": "Republic of Moldova",
+    "TimePeriod": 2000,
+    "Value": 35.7
+  },
+  {
+    "GeoAreaName": "Indonesia",
+    "TimePeriod": 2000,
+    "Value": 39.3
+  },
+  {
+    "GeoAreaName": "Kyrgyzstan",
+    "TimePeriod": 2000,
+    "Value": 42.1
+  },
+  {
+    "GeoAreaName": "Eswatini",
+    "TimePeriod": 2000,
+    "Value": 48.4
+  },
+  {
+    "GeoAreaName": "Uzbekistan",
+    "TimePeriod": 2000,
+    "Value": 62
+  },
+  {
+    "GeoAreaName": "Rwanda",
+    "TimePeriod": 2000,
+    "Value": 77.2
+  },
+  {
+    "GeoAreaName": "United Republic of Tanzania",
+    "TimePeriod": 2000,
+    "Value": 86
+  }
+]

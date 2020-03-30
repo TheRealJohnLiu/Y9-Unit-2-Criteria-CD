@@ -1,0 +1,9 @@
+.container {
+    width: 50%;
+    height: 50%;
+}
+
+.jumbotron {
+    outline-color: #eeeeee;
+    -webkit-border-radius: 20px;
+    width: 95%;

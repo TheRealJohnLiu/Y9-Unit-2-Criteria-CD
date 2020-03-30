@@ -1,0 +1,197 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:600);
+
+
+.text {
+  width: 850px;
+	height: 40px;
+	margin-top: -20px;
+}
+
+.buttonSelection {
+	
+	width: 200px;
+	top: 60%;
+}
+
+
+.word {
+    width: 520px;
+    position: absolute;
+    left: 50%;
+    font-size: 50px;
+    transform: translate(-50%, 0);
+	opacity: 0;
+}
+
+.letter {
+	display: inline-block;
+	position: relative;
+	transform: translateZ(25px);
+	transform-origin: 50% 50% 25px;
+}
+
+.letter.out {
+	transform: rotateX(90deg);
+	transition: transform 0.32s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.letter.behind {
+	transform: rotateX(-90deg);
+}
+
+.letter.in {
+	transform: rotateX(0deg);
+	transition: transform 0.38s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.wisteria {
+	color: #8e44ad;
+}
+
+.belize {
+	color: #2980b9;
+}
+
+.pomegranate {
+	color: #c0392b;
+}
+
+.green {
+	color: #16a085;
+}
+
+
+.fullscreen-bg {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	overflow: visible;
+	z-index: -100;
+}
+
+.fullscreen-bg__video {
+	
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+th {
+    text-decoration: underline;
+    background-color: #282828;
+}
+tr:nth-child(even) {
+      background-color: #616161
+}
+tr:hover {
+      background-color: #7a7a7a
+}
+br{
+  cursor: default;
+}
+#scroll {
+  display: none;
+  position: fixed;
+  opacity: 0.15;
+  bottom: 10px;
+  right: 20px;
+  z-index: 99;
+  font-size: 30px;
+  outline: none;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  animation-duration:1.5s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  transition: 1.5s;
+  transition-delay: 0.5s;
+}
+
+#scroll:hover {
+  opacity: 1;
+  font-size: 35px;
+  transition: 1.5s;
+}
+.topnav {
+      z-index: 2;
+      overflow: hidden;
+      background-color: #3b5998;
+      background-attachment: fixed;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      height: 4vw;
+    }
+
+.topnav a {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 1.3vw 1.3vw;
+      font-family: "PT Sans";
+      text-decoration: none;
+      font-size: 1.5vw;
+      background-attachment: fixed;
+      position:relative;
+    }
+
+.topnav a:hover {
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+#scroll {
+    display: none;
+    position: fixed;
+    opacity: 0.15;
+    bottom: 10px;
+    right: 20px;
+    z-index: 99;
+    font-size: 30px;
+    outline: none;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+    animation-duration:1.5s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    transition: 1.5s;
+    transition-delay: 0.5s;
+  }
+  
+  #scroll:hover {
+    opacity: 1;
+    font-size: 35px;
+    transition: 1.5s;
+  }
+  .topnav input[type=text] {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+  }
+
+
+.btn {
+	background-color: transparent;
+	border: none;
+	color: black;
+	padding: 16px 32px;
+	text-align: center;
+	font-size: 80px;
+	margin: 4px 2px;
+	transition: 0.3s;
+}
+
+.jumbotron {
+  outline-color: #eeeeee;
+  -webkit-border-radius: 20px;
+  width: 85%;

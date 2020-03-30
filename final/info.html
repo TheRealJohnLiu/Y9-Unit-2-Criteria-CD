@@ -1,0 +1,213 @@
+<!-- HTML -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!---==== Meta ====--->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+
+  <!---==== CSS ====-->
+  <!-- Eon Styles -->
+  <link rel="stylesheet" href="https://rohinarya12.github.io/eonstyles/new/eon.css">
+  <!-- Animate -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <!-- Material Icons -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <!-- Roboto Font-->
+  <link
+    href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i|Roboto+Mono:300,400,700|Roboto+Slab:300,400,700"
+    rel="stylesheet">
+  <!-- Dameonite / Bootstrap-->
+  <link rel="stylesheet" href="daemonite/material.min.css">
+  <!-- Waves -->
+  <link rel="stylesheet" href="daemonite/waves.min.css">
+  <!-- Snackbar -->
+  <link rel="stylesheet" href="daemonite/snackbar.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="http://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+  <link rel="stylesheet" href="assets/info.css">
+
+</head>
+
+<body style="font-family: Roboto">
+  <!-- Preflight Modals-->
+
+  <div class="modal fade bd-example-modal-sm" id="errorModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3>Error</h3>
+        </div>
+        <h5 id="erorrModalMsg" class="modal-body">Unable to complete process.</h5>
+        <div class="modal-footer"><button type="button" class="waves btn-old-text" data-dismiss="modal">dismiss</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="z-index: 20000049108509173268563785623467823478623478278997819871982498714;"
+    class="modal fade bd-example-modal-sm" id="eonloaderelement" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
+      <div style="display: inline-block; border-radius: 400px; width: 150px" class="modal-content centered">
+        <div class="modal-body">
+          <center>
+            <div class="progress-circular">
+              <div class="progress-circular-wrapper">
+                <div class="progress-circular-inner">
+                  <div class="progress-circular-left">
+                    <div class="progress-circular-spinner"></div>
+                  </div>
+                  <div class="progress-circular-gap"></div>
+                  <div class="progress-circular-right">
+                    <div class="progress-circular-spinner"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </center>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===========================--] Content [=================================== -->
+
+  <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html">Poverty and UBI</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="ubi.html">Universal Basic Income</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="info.html">Info & Charts <span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+  <center>
+    <br><br><br><br>
+    <h1 style="font-weight: 700; font-size: 4em; color: rgb(0, 0, 0);"><b>Info & Charts</b></h1>
+    <hr style="background-color: grey; max-width: 80%">
+    <br><br><br><br>
+  </center>
+
+
+  <center>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container-fluid">
+
+        <h1 style="font-size: 42px;
+          background: -webkit-linear-gradient(rgb(255, 0, 0), rgb(0, 140, 255));
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;">World Poverty</h1>
+        <div id="mydata"></div>
+        <div id="yeet">
+          <canvas class="animated flip" id="myCanvas" width="1300" height="600"></canvas>
+        </div>
+
+        <br><br>
+        <button class="btn my-1" onclick="reset()">clickme</button>
+  </center>
+  </div>
+  </div>
+
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+
+  <center>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container-fluid">
+        <h1 class="display-4"><center>Search Up A Country's Data</center></h1>
+        <br>
+        <p class="lead"><center><b>Read this for full information about the search.</b></center></p>
+        <p class="lead"><center>Here you can put in a country and there will be autofill. You can also put "World" in to get data of the world. If you want to select a year, go ahead and it will show autofill suggestions and those show the only years that the country has data in. If you do not want to search up a year. Go ahead and click the search button and there you go!</center></p>
+        <div class="topnav">
+          <div class="search-container">
+            <input type="text" placeholder="Country.." name="search" id="searchInput">
+            <input type="text" placeholder="Year.." name="year" id="yearInput">
+            <button id="searchBtn"><i class="fa fa-search"></i></button>
+            <div class="container">
+              <canvas id="myChart" width="100%" height="100%"></canvas>
+            </div>
+          </div>
+        </div>
+        <div>
+        </div>
+  </center>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <center>
+      <div class="jumbotron jumbotron-fluid">
+        <div class="container-fluid">
+          <h1 class="display-4"><center>Charts With All The Data</center></h1>
+          <br>
+          <p class="lead"><center>Here are two charts with data from all the countries and that goes back to 2002. The right one is organized by country, left one is by year.</center></p>
+          <br>
+          <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQTnBIWmWAGsRBBdypoKYAizsdYtAS_ZLBOh7nZxTqomjCEoQC0N5XAitBDx57ScwmdufYCWt_iq7R2/pubhtml?gid=1722175811&amp;single=true&amp;widget=true&amp;headers=false" height="600" width="330px"></iframe>
+          <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyCzvu_CJyZq1dh62teZjo-XePTpSXwduJDvyXxw6AqZLOG9To3fSfYIgoR_txTUvR6FqxgJY5a6fU/pubhtml?gid=788384800&amp;single=true&amp;widget=true&amp;headers=false" height="600" width="330px"></iframe>
+          <div>
+          </div>   
+  </center>
+  <br>
+  <br>
+ 
+
+  <!-- ===========================--] /Content [=================================== -->
+  <!---==== JavaScript ====--->
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <!-- Popper -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+  <!-- Bootstrap -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+  <!-- Eon Styles -->
+  <script src="https://rohinarya12.github.io/eonstyles/new/eon.js"></script>
+  <!-- Daemonite -->
+  <script src="daemonite/material.min.js"></script>
+  <!-- Waves -->
+  <script src="daemonite/waves.min.js"></script>
+  <script>addWaves(); function addWaves() { Waves.attach('.eon-contained', ['waves-button', 'waves-light']); Waves.attach('.eon-outlined', ['waves-button']); Waves.attach('.eon-text', ['waves-button']); var config = { duration: 250 }; Waves.init(config); }</script>
+  <!-- Snackbar -->
+  <script src="daemonite/snackbar.min.js"></script>
+  <style>
+    .snackbar-container {
+      padding-top: 8px !important;
+      padding-bottom: 8px !important;
+      border-radius: 8px !important;
+      max-width: 8723789253786352614975678392738649502976483528059748327952px;
+    }
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+  <script type="text/javascript" src="assets/chartdata.json"></script>
+  <script src="assets/gradients.json"></script>
+  <script src="assets/csvjsoncopy.json"></script>
+  <script src="assets/info.js"></script>
+  <script src="assets/infochart.js"></script>
+
+</body>
+
+</html>
