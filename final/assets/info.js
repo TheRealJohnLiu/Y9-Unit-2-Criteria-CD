@@ -127,7 +127,7 @@ function drawChallenge() {
 
 
         ctx.fillStyle = grd
-        ctx.fillRect(10, counter * 60, data[element]['Value'] * 20, 50);
+        ctx.fillRect(10, counter * 60, data[element]['Value'] * 19, 50);
         ctx.fillStyle = grd1
         ctx.fillText(data[element]['TimePeriod'] + ": " + data[element]['Value'] + "%", 15, counter * 60 + 30)
 
