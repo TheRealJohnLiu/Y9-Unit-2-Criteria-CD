@@ -108,7 +108,7 @@ function drawChallenge() {
     // can anyone figure this out?
 
 
-    mynums = [1350, 1136, 902, 687, 564, 451, 340, 154];
+    mynums = [1349, 1135, 885, 686, 563, 450, 339, 153];
     counter = 0
 
     mynums.forEach(element => {
@@ -127,7 +127,7 @@ function drawChallenge() {
 
 
         ctx.fillStyle = grd
-        ctx.fillRect(10, counter * 60, data[element]['Value'] * 19, 50);
+        ctx.fillRect(10, counter * 60, data[element]['Value'] * 50, 50);
         ctx.fillStyle = grd1
         ctx.fillText(data[element]['TimePeriod'] + ": " + data[element]['Value'] + "%", 15, counter * 60 + 30)
 
